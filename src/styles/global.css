@@ -37,11 +37,12 @@ h1 {
 
 .footer-text {
   color: #111;
+  font-size: 12px;
 }
 
 .footer-text i {
   color: #111;
-  font-size: 25px;
+  font-size: 18px;
 }
 
 /* nav styles */
@@ -105,5 +106,13 @@ a:focus {
 
   .hamburger {
     display: none;
+  }
+
+  .footer-text {
+    font-size: 20px;
+  }
+
+  .footer-text i {
+    font-size: 25px;
   }
 }
