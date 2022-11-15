@@ -1,3 +1,5 @@
+# Check out the final product at astro-sauce.netlify.app
+
 # Astro Starter Kit: Minimal
 
 ```
